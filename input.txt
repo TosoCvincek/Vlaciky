@@ -1,0 +1,5 @@
+1 Bratislava 15.5
+0 Zilina 22.3
+1 Brodno 75.7
+1 Korna 100.1
+0 Turzovka 55.5
